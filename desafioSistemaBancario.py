@@ -1,10 +1,10 @@
 menu = """
--------- Sistema Bancário ---------
+========== Sistema Bancário ==========
 [d] Depositar
 [s] Sacar
 [e] Extrato
 [q] Sair
------------------------------------
+======================================
 => """
 
 saldo = 0
